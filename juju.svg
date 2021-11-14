@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="188.93694mm"
-   height="185.31546mm"
-   viewBox="0 0 188.93694 185.31546"
+   width="190.40041mm"
+   height="182.50914mm"
+   viewBox="0 0 190.40041 182.50914"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    sodipodi:docname="juju.svg"
-   inkscape:export-filename="/Users/christian/Nextcloud/Documents/juju/juju_4k.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="/Users/christian/Nextcloud/Documents/juju/juju_1000.png"
+   inkscape:export-xdpi="134.4364"
+   inkscape:export-ydpi="134.4364"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8568626"
-     inkscape:cx="344.39814"
-     inkscape:cy="522.65581"
+     inkscape:zoom="1.3130001"
+     inkscape:cx="381.94969"
+     inkscape:cy="393.37391"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -49,8 +49,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid3713"
-       originx="241.85852"
-       originy="-132.08009" />
+       originx="241.99653"
+       originy="-132.08007" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -67,7 +67,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(241.85847,28.238795)">
+     transform="translate(241.99648,28.238795)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4645"
@@ -81,20 +81,29 @@
          id="flowPara4651" /></flowRoot>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-241.99648"
+       y="153.98923"
+       id="text9103"
+       inkscape:export-filename="/Users/christian/Nextcloud/Documents/juju/juju_3000.png"
+       inkscape:export-xdpi="400.20923"
+       inkscape:export-ydpi="400.20923"><tspan
+         sodipodi:role="line"
+         id="tspan9101"
+         style="font-size:16.9333px;stroke-width:0.264583"
+         x="-241.99648"
+         y="153.98923">TSV 1847 Weißenhorn </tspan></text>
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.16px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105833"
-       x="-146.65826"
+       x="-146.09708"
        y="134.48534"
        id="text4655"><tspan
          sodipodi:role="line"
-         id="tspan4653"
-         x="-146.65826"
+         x="-146.09708"
          y="134.48534"
-         style="font-size:20.32px;text-align:center;text-anchor:middle;stroke-width:0.105833">Ju Jutsu </tspan><tspan
-         sodipodi:role="line"
-         x="-146.65826"
-         y="156.79555"
-         style="font-size:16.9333px;text-align:center;text-anchor:middle;stroke-width:0.105833"
-         id="tspan892">TSV 1847 Weißenhorn</tspan></text>
+         style="font-size:20.32px;text-align:center;text-anchor:middle;stroke-width:0.105833"
+         id="tspan892">Ju Jutsu</tspan></text>
     <g
        id="g2038"
        transform="translate(-10.527141)">
